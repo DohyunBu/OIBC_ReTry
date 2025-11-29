@@ -2,9 +2,14 @@
 
 [발표자료_재시도](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도.pdf)
 
-![발표자료_재시도_영상](https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%99%EC%8A%B5%EB%8D%B0%EC%9D%B4%ED%84%B0.gif)
-![발표자료_재시도_영상](https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%99%EC%8A%B5%ED%8F%89%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0.gif)
-![발표자료_재시도_영상](https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%98%A4%EC%B0%A8.gif)
+<table>
+  <tr>
+    <td><img src="https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%99%EC%8A%B5%EB%8D%B0%EC%9D%B4%ED%84%B0.gif" width="260"></td>
+    <td><img src="https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%99%EC%8A%B5%ED%8F%89%EA%B0%80%EB%8D%B0%EC%9D%B4%ED%84%B0.gif" width="260"></td>
+    <td><img src="https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%98%A4%EC%B0%A8.gif" width="260"></td>
+  </tr>
+</table>
+
 
 ![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%ED%8C%80_%EC%9E%AC%EC%8B%9C%EB%8F%84_%ED%8E%98%EC%9D%B4%EC%A7%80_1.JPG)
 ![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/blob/main/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%ED%8C%80_%EC%9E%AC%EC%8B%9C%EB%8F%84_%ED%8E%98%EC%9D%B4%EC%A7%80_2.JPG)
