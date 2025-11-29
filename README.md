@@ -1,2 +1,22 @@
-# OIBC_ReTry
-2025 POSTECH OIBC BIG DATA CHALLENGE 일사량 추정 경진대회(대상)
+# OIBC_ReTry_ReTry
+
+[발표자료_재시도](발표자료_팀_재시도.pptx)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_01.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_02.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_03.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_04.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_05.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_06.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_07.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_08.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_09.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_10.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_11.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_12.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_13.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_14.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_15.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_16.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_17.jpg)
+![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/raw/main/발표자료/발표자료_팀_재시도_페이지_18.jpg)
+
