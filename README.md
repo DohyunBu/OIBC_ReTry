@@ -1,6 +1,6 @@
 # OIBC_ReTry_ReTry
 
-[발표자료_재시도](발표자료_팀_재시도.pptx)
+[발표자료_재시도](발표자료_팀_재시도.pdf)
 ![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/main/발표자료/발표자료_팀_재시도_페이지_1.jpg)
 ![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/main/발표자료/발표자료_팀_재시도_페이지_2.jpg)
 ![발표자료_재시도_페이지](https://github.com/DohyunBu/OIBC_ReTry/main/발표자료/발표자료_팀_재시도_페이지_3.jpg)
